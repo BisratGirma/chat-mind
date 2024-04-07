@@ -4,7 +4,7 @@
   "description": "a chat application that describes how your mind works",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
